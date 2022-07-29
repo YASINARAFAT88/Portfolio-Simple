@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+.navbar-nav{
+    font-size: 18px;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.links{
+    transition: all 0.3s ease;
+}
+.links:hover{
+    color: yellow;
+    transform: scale(1.1);
+}
+
+/* progress */
+
+.progress{
+    height: 20px;
+    border-radius: 50px;
+    transition: all 0.5s ease;
+}
+.progress:hover{
+    transform: scale(1.1);
+}
+
+/* card  */
+
+.card{
+    margin-top: 20px ;
+    transition: all 0.5s ease;
+}
+
+.card img{
+    margin: auto;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 1px 2px 10px black;
+}
