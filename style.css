@@ -23,7 +23,6 @@
 
 .iocn-button{
     width: 196px;
-    background: #E02C6D;
     padding: 10px;
     border-radius: 20px;
     transition: .5s linear ;
@@ -41,7 +40,7 @@
     0%   {background-color: rgb(15, 15, 15);}
     25%  {background-color: #323132;}
     50%  {background-color: orange}
-    100% {background-color: rgb(245, 240, 246);}
+    100% {background-color: rgb(168, 166, 168);}
   }
 
 
